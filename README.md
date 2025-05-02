@@ -15,20 +15,16 @@
   
 <a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=arch,windows" /></a>
 
-**Frontend Frameworks:** Tailwind CSS, ReactJS, RemixJS, NextJS
+**Frontend Frameworks:** Tailwind CSS, RemixJS, NextJS
   
-<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=tailwind,react,remix,nextjs" /></a>
+<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=tailwind,remix,nextjs" /></a>
 
-**Backend Frameworks:** NodeJS, NestJS, Laravel, Spring Boot, ASP.NET
+**Backend Frameworks:** NestJS, Laravel, Spring
   
-<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,dotnet" /></a>
+<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=nestjs,laravel,spring" /></a>
 
-**Languages:** HTML, CSS, JavaScript, TypeScript, PHP, Java, C#
+**IDE:** VSCodium, IntelliJ IDEA
   
-<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs" /></a>
-
-**IDE:** VSCodium, IntelliJ IDEA, Visual Studio
-  
-<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=vscodium,idea,visualstudio" /></a>
+<a href="https://github.com/VAK1412"><img src="https://skillicons.dev/icons?i=vscodium,idea" /></a>
 
 **Interested In:** DevOps
