@@ -8,9 +8,9 @@
   
 <a href="https://github.com/VAK42"><img src="https://skillicons.dev/icons?i=tailwind,remix,nextjs" /></a>
 
-**Backend Frameworks:** NestJS, Laravel, Spring
+**Backend Frameworks:** NestJS, Spring
   
-<a href="https://github.com/VAK42"><img src="https://skillicons.dev/icons?i=nestjs,laravel,spring" /></a>
+<a href="https://github.com/VAK42"><img src="https://skillicons.dev/icons?i=nestjs,spring" /></a>
 
 **IDE:** VSCodium, IntelliJ IDEA
   
