@@ -342,9 +342,9 @@
       <text fill="var(--bone)" x="48" y="108">TypeScript</text> <rect class="tel-bar" x="48" y="116" width="240" height="6"/><text fill="var(--muted)" x="298" y="123" font-size="10">32%</text>
       <text fill="var(--bone)" x="48" y="146">Java</text>       <rect class="tel-bar" x="48" y="154" width="200" height="6"/><text fill="var(--muted)" x="258" y="161" font-size="10">26%</text>
       <text fill="var(--bone)" x="48" y="184">Python</text>     <rect class="tel-bar" x="48" y="192" width="160" height="6"/><text fill="var(--muted)" x="218" y="199" font-size="10">20%</text>
-      <text fill="var(--bone)" x="48" y="222">JavaScript</text> <rect class="tel-bar" x="48" y="230" width="90"  height="6"/><text fill="var(--muted)" x="148" y="237" font-size="10">11%</text>
+      <text fill="var(--bone)" x="48" y="222">JavaScript</text> <rect class="tel-bar" x="48" y="230" width="90"  height="6"/><text fill="var(--muted)" x="148" y="237" font-size="10">12%</text>
       <text fill="var(--bone)" x="48" y="260">C++ / C</text>   <rect class="tel-bar" x="48" y="268" width="55"  height="6"/><text fill="var(--muted)" x="113" y="275" font-size="10">6%</text>
-      <text fill="var(--bone)" x="48" y="298">Go · HTML · CSS</text> <rect class="tel-bar" x="48" y="306" width="40" height="6"/><text fill="var(--muted)" x="98" y="313" font-size="10">5%</text>
+      <text fill="var(--bone)" x="48" y="298">Go · HTML · CSS</text> <rect class="tel-bar" x="48" y="306" width="40" height="6"/><text fill="var(--muted)" x="98" y="313" font-size="10">4%</text>
     </g>
     <text fill="var(--dim)" class="mono" x="392" y="78" font-size="10" letter-spacing="2.5">Commit &amp; Build Velocity</text>
     <g>
@@ -372,9 +372,9 @@
     <rect class="gh-panel" x="520" y="20" width="456" height="270" rx="2"/>
     <g class="mono">
       <g transform="translate(52, 42)" fill="none" stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></g>
-      <text class="gh-title" x="88" y="58">Github Stats — Vu Anh Kiet</text>
+      <text class="gh-title" x="88" y="58">Info — Vu Anh Kiet</text>
       <line class="gh-rule" x1="52" y1="72" x2="452" y2="72"/>
-      <text class="gh-text" x="52" y="110">Primary Profile</text><text class="gh-val" x="436" y="110">GitHub.Com/VAK42</text>
+      <text class="gh-text" x="52" y="110">Primary Profile</text><text class="gh-val" x="436" y="110">github.com/VAK42</text>
       <text class="gh-text" x="52" y="146">System OS</text><text class="gh-val" x="436" y="146">Arch Linux · Fedora · Windows 11</text>
       <text class="gh-text" x="52" y="182">Window Manager</text><text class="gh-val" x="436" y="182">Hyprland · GlazeWM</text>
       <text class="gh-text" x="52" y="218">Shell &amp; Prompt</text><text class="gh-val" x="436" y="218">Zsh + Starship</text>
@@ -382,10 +382,10 @@
       <g transform="translate(548, 42)" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></g>
       <text class="gh-title" x="580" y="58">Languages &amp; Skills</text>
       <line class="gh-rule" x1="548" y1="72" x2="948" y2="72"/>
-      <text class="gh-text" x="548" y="105">TypeScript</text><rect class="gh-bar" x="660" y="94" width="270" height="12"/><rect class="gh-fill" x="660" y="94" width="189" height="12"/>
-      <text class="gh-text" x="548" y="141">Java</text><rect class="gh-bar" x="660" y="130" width="270" height="12"/><rect class="gh-fill" x="660" y="130" width="140" height="12"/>
-      <text class="gh-text" x="548" y="177">Python</text><rect class="gh-bar" x="660" y="166" width="270" height="12"/><rect class="gh-fill" x="660" y="166" width="110" height="12"/>
-      <text class="gh-text" x="548" y="213">JavaScript</text><rect class="gh-bar" x="660" y="202" width="270" height="12"/><rect class="gh-fill" x="660" y="202" width="60" height="12"/>
+      <text class="gh-text" x="548" y="105">TypeScript</text><rect class="gh-bar" x="660" y="94" width="270" height="12"/><rect class="gh-fill" x="660" y="94" width="200" height="12"/>
+      <text class="gh-text" x="548" y="141">Java</text><rect class="gh-bar" x="660" y="130" width="270" height="12"/><rect class="gh-fill" x="660" y="130" width="200" height="12"/>
+      <text class="gh-text" x="548" y="177">Python</text><rect class="gh-bar" x="660" y="166" width="270" height="12"/><rect class="gh-fill" x="660" y="166" width="200" height="12"/>
+      <text class="gh-text" x="548" y="213">JavaScript</text><rect class="gh-bar" x="660" y="202" width="270" height="12"/><rect class="gh-fill" x="660" y="202" width="200" height="12"/>
       <text class="gh-text" x="548" y="249">Go / C++</text><rect class="gh-bar" x="660" y="238" width="270" height="12"/><rect class="gh-fill" x="660" y="238" width="35" height="12"/>
     </g>
   </g>
