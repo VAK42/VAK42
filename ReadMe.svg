@@ -99,7 +99,7 @@
       <text class="mono hdr-text" x="46" y="176" font-size="68" font-weight="700" letter-spacing="-1">Vu Anh Kiet</text>
     </g>
     <g>
-      <text class="mono hdr-muted" x="48" y="214" font-size="19">An Internship Fullstack Developer</text>
+      <text class="mono hdr-muted" x="48" y="214" font-size="19">A Fullstack Developer</text>
     </g>
     <g>
       <g transform="translate(48, 262) scale(0.6)" fill="none" stroke="var(--dim)" stroke-width="1.8">
